@@ -8,7 +8,7 @@
     "autoJobCancelPending": true,
     "autoAlias": true
   },
-  "env": [],
+  "env": {},
   "headers": [
     {
       "source": "/(.*)",
